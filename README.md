@@ -62,4 +62,7 @@ The figures should look somehow similar to the following:
 ***
 ![fig5](outputs/images/bsiso_phases.pdf)
 
+***
+![fig6](outputs/images/background_uvz200.png)
+
 
