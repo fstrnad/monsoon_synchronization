@@ -45,29 +45,21 @@ The networks and community files are created and stored in 'outputs/'. They are 
 2. Reproduce plots in the paper by running
 ```
 python bin/paper_plots.py
-python bin/paper_propagation.py
 ```
 
 
 The figures should look somehow similar to the following:
 
 ***
-![fig2](outputs/images/communities_lead_lag_EIO.png)
+![fig2](outputs/images/msl_ts.png)
 
 ***
-![fig3](outputs/images/conditioned_bsiso_phase.png)
+![fig3](outputs/images/sst_groups_pdo.png)
 
 ***
-![fig4](outputs/images/propagation_olr_hovmoeller_k_means_lon_lat_EIO.png)
+![fig4](outputs/images/propagation_olr_latent_mvpca.png)
 
 ***
-![fig5](outputs/images/sst_mse_background_all.png)
+![fig5](outputs/images/bsiso_phases.pdf)
 
-***
-![fig6](outputs/images/propagation_msf_lon_lat_all.png)
 
-***
-![fig7](outputs/images/Kelvin_Rossby_Waves.png)
-
-***
-![fig9](outputs/images/olr_propagation_1_all.png)
